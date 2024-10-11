@@ -1,0 +1,33 @@
+*{
+    padding: 1px;
+}
+h2{
+    color: #1dbe1d;
+}
+h1{
+    color: red;
+    font-size: 1.9em;
+    font-weight: 900;
+}
+h1, h2{
+    text-decoration:underline dotted;
+}
+p{
+    color: black;
+}
+section{
+    text-align: left;
+}
+#location{
+    text-align:justify;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #83653d;
+}
+.my-sections{
+    font-family: 'Courier New', Courier, monospace;
+}
+#welcome-msg{
+    font-weight: bold;
+    font-style:oblique;
+}
